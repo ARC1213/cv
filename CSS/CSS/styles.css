@@ -16,15 +16,13 @@ body {
   color: red;
 }
 
-.black:hover {
-  color: rgb(205, 205, 0);
-}
-
 .FZ:hover {
   color: rgb(255, 0, 0);
   }
 
-
+.yellow:hover {
+  color: rgb(205, 205, 0);
+}
 
 /******************************************ID SALECTORS**********************************************/
 
